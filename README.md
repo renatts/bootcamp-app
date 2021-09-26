@@ -24,9 +24,10 @@ This sample application demonstrates the following technologies.
 1. If you don't already have PostgreSQL, set up using Docker
 1. Create a [free Okta developer account](https://developer.okta.com/) and add a web application for this app
 1. Create `.env` file (like on the picture) and change the values to yours: 
-![env_sample](https://user-images.githubusercontent.com/83014719/134813529-74d82495-5871-469c-a170-f058a8c0bdc7.jpg)
+![env_sample](https://user-images.githubusercontent.com/83014719/134813723-7f57c1ce-0361-4699-afe2-f79c647ec560.jpg)
 1. Initialize the PostgreSQL database by running `npm run initdb`
 1. Run `npm run dev` to start Node.js
 
 The associated blog post goes into more detail on how to set up PostgreSQL with Docker and how to configure your Okta account.
+
 

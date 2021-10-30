@@ -1,5 +1,7 @@
 # Node.js Weight Tracker
 
+[![Build Status](https://dev.azure.com/parennut/Weight-Tracker/_apis/build/status/Weight-Tracker-CI?branchName=master)](https://dev.azure.com/parennut/Weight-Tracker/_build/latest?definitionId=2&branchName=master)
+
 ![Demo](docs/build-weight-tracker-app-demo.gif)
 
 ## Database server configuration

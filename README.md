@@ -4,6 +4,10 @@
 
 ![Demo](docs/build-weight-tracker-app-demo.gif)
 
+![project-cicd](https://user-images.githubusercontent.com/83014719/139582315-0e1aa7f4-82de-417e-bfdd-043f4229a56e.png)
+
+---
+
 ## Database server configuration
 
 * Connect to the remote server by using `ssh -i [path to id_rsa]/id_rsa ubuntu@[ database server IP address]`
@@ -50,6 +54,10 @@
 * `sudo systemctl daemon-reload`
 * `sudo systemctl enable pm2-root.service`
 * `sudo systemctl status pm2-root.service` (for service status)
+
+---
+
+
 
 Or you can create your own [service](https://www.shubhamdipt.com/blog/how-to-create-a-systemd-service-in-linux/).
 * For your service you will need to create a script file that will contain commands for booting your application.
